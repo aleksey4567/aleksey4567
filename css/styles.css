@@ -1,0 +1,7 @@
+.change-color-button {
+	color: violet;
+	font-size: 50px;
+	background-color: blue;
+	border: 5px solid black;
+	cursor: pointer;
+}
